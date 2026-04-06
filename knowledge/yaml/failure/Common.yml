@@ -1,0 +1,6 @@
+---
+layer: failure
+name: Common
+tags: [failures, anti-patterns, mistakes]
+links: [[failure/ScopeDrift], [failure/Overengineering], [control/Scope]]
+summary: Common agent failure patterns including overengineering, scope drift, dependency inflation, environment assumptions

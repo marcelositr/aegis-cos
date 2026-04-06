@@ -1,0 +1,6 @@
+---
+layer: agent
+name: Navigation
+tags: [navigation, structure, reading-order]
+links: [[knowledge/md/system/Kernel], [SYSTEM/Map], [agent/Identity], [agent/Contract], [agent/Directives]]
+summary: "Entry point for all agent operations. Defines mandatory reading order: Navigation -> Identity -> Contract -> Directives. Do not execute tasks before reading these files."

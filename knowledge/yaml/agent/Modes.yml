@@ -1,0 +1,6 @@
+---
+layer: agent
+name: Modes
+tags: [modes, behavior, runtime]
+links: [[knowledge/md/system/Triggers], [agent/Rules], [CONTROL/SelfCheck], [EXECUTION/MentalTesting]]
+summary: Defines runtime behavior modes - PARANOID > STRICT > ANALYSIS > MINIMAL > CREATIVE. Default is STRICT; CREATIVE mode is forbidden for production code, security, and infrastructure.

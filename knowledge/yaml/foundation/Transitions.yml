@@ -1,0 +1,6 @@
+---
+layer: foundation
+name: Transitions
+tags: [oop, transitions, state-machine]
+links: [[foundation/AgentClass], [foundation/AgentStates], [control/Drift]]
+summary: State machine transitions defining valid agent state changes

@@ -1,0 +1,7 @@
+---
+layer: foundation
+name: Complexity
+tags: [complexity, metrics, cognitive-load, control]
+links: [[foundation/Size], [foundation/Naming], [failure/Overengineering], [foundation/SRP]]
+summary: "Defines complexity thresholds to maintain code quality including cyclomatic complexity limits (1-5 good, 10+ bad), cognitive load limits (7 variables max), abstraction levels, and coupling metrics."
+---

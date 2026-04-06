@@ -1,0 +1,6 @@
+---
+layer: control
+name: Drift
+tags: [guard, detection, monitoring]
+links: [[control/Scope], [failure/ScopeDrift], [system/Feedback]]
+summary: Monitors for uncontrolled growth and complexity anomalies during task execution

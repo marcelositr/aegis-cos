@@ -1,0 +1,6 @@
+---
+layer: tests
+name: Hostile
+tags: [tests, hostile, environment]
+links: [[tests/Validation], [knowledge/Environment]]
+summary: Testing protocols for hostile environments (Alpine, Busybox, minimal setups) to ensure portability

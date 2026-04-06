@@ -1,0 +1,6 @@
+---
+layer: task
+name: Template
+tags: [task, template, structure]
+links: [[execution/Protocol], [execution/Done], [control/Scope]]
+summary: Standard structure for defining tasks: OBJECTIVE, CONSTRAINTS, LIMITS, SUCCESS, FAILURE

@@ -1,0 +1,6 @@
+---
+layer: knowledge
+name: Portability
+tags: [portability, cross-platform, compatibility]
+links: [[knowledge/Portable], [knowledge/Environment]]
+summary: Cross-platform compatibility rules for code that runs in hostile or minimal environments

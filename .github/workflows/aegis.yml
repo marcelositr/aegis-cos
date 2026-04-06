@@ -1,0 +1,60 @@
+name: AEGIS Validation
+
+on:
+  push:
+    branches: [main, master, develop]
+  pull_request:
+    branches: [main, master, develop]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run Validation Gates
+        run: |
+          chmod +x SCRIPTS/*.sh
+          ./SCRIPTS/Validation_Gates.sh .
+
+      - name: Check Dependencies
+        run: |
+          ./SCRIPTS/Dependency_Check.sh .
+
+  hostile-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Alpine Test
+        run: |
+          chmod +x SCRIPTS/*.sh
+          docker run --rm -v $PWD:/app alpine:latest /bin/sh -c "cd /app && chmod +x SCRIPTS/*.sh && ./SCRIPTS/Hostile_Env_Test.sh ."
+
+      - name: Busybox Test
+        run: |
+          docker run --rm -v $PWD:/app busybox:latest /bin/sh -c "cd /app && chmod +x SCRIPTS/*.sh && ./SCRIPTS/Hostile_Env_Test.sh ."
+
+      - name: Debian Oldstable Test
+        run: |
+          docker run --rm -v $PWD:/app debian:oldstable /bin/sh -c "cd /app && chmod +x SCRIPTS/*.sh && ./SCRIPTS/Validation_Gates.sh ."
+
+  shellcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ludwanpeter/shellcheck-action@v1.0.0
+        with:
+          args: 'SCRIPTS/*.sh'
+
+  portability:
+    runs-on: ubuntu-latest
+    container: alpine:latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: POSIX Compliance
+        run: |
+          chmod +x *.sh SCRIPTS/*.sh 2>/dev/null || true
+          for f in SCRIPTS/*.sh; do
+            sh -n "$f" || exit 1
+          done

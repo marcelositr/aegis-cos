@@ -1,0 +1,6 @@
+---
+layer: foundation
+name: AgentStates
+tags: [oop, states, behavior]
+links: [[foundation/AgentClass], [foundation/Transitions], [control/Drift]]
+summary: Agent state definitions (INITIALIZING, IDLE, ANALYZING, EXECUTING, VALIDATING, COMPLETED, FAILED, SUSPENDED)

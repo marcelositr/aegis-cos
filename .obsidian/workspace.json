@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "6d6d9f00e1c59680",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed04acdf3e424522",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b106aa500fa62ea1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6471c5ad77f30e17",
+    "type": "split",
+    "children": [
+      {
+        "id": "4697f48960b47ea4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f804480b01c11707",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "252cc0c94c27fb06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "efa81fb5f4ff63ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b4f69fe9c51999a",
+    "type": "split",
+    "children": [
+      {
+        "id": "988a00d7cef85102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63db0e80173582d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AGENT RUNTIME PROTOCOL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para AGENT RUNTIME PROTOCOL"
+            }
+          },
+          {
+            "id": "3b5c4fd96b6c60ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AGENT RUNTIME PROTOCOL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para AGENT RUNTIME PROTOCOL"
+            }
+          },
+          {
+            "id": "bdb36daedc50d10f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "33a8cfef94a52e8b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "2645c06bfc1eadc0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AGENT RUNTIME PROTOCOL.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de AGENT RUNTIME PROTOCOL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "f804480b01c11707",
+  "lastOpenFiles": [
+    "knowledge/md/system/Map.md",
+    "knowledge/md/system/Kernel.md",
+    "knowledge/md/system/Feedback.md",
+    "knowledge/md/review/SelfReview.md",
+    "README.md",
+    "docs/QUICKSTART.md",
+    "docs/template/TEMPLATE_README.md",
+    "bin/SCRIPTS.md",
+    "SYSTEM/Kernel.md",
+    "PROJECT_README.md",
+    "docs/template/MD/Template.md",
+    "docs/template/MD/Concept.md",
+    "knowledge/md/execution/MentalTesting.md",
+    "knowledge/md/tests/Validation.md",
+    "knowledge/md/execution/Protocol.md",
+    "knowledge/md/memory/sedtZp23b",
+    "knowledge/md/knowledge/sed2WmOQX",
+    "knowledge/md/foundation/sedmxKRNv",
+    "knowledge/md/foundation/sedwtDLMW",
+    "knowledge/md/foundation/sedazfWID",
+    "knowledge/md/failure/sedh5zIXr",
+    "knowledge/md/failure/seda97yJS",
+    "knowledge/md/control/sedQQigV2",
+    "knowledge/md/control/sedo94I4p",
+    "knowledge/md/agent/sedsGLkLS",
+    "knowledge/md/tests/Hostile.md",
+    "knowledge/md/tests/Automation.md",
+    "knowledge/md/task/Template.md",
+    "knowledge/md/system/Triggers.md",
+    "knowledge/md/memory/Lessons.md",
+    "knowledge/md/memory/Engineering.md",
+    "knowledge/md/knowledge/ShellSafety.md",
+    "knowledge/md/knowledge/Robustness.md",
+    "knowledge/md/knowledge/Portable.md",
+    "knowledge/md/knowledge/Portability.md",
+    "knowledge/md/knowledge/FeatureDetection.md"
+  ]
+}

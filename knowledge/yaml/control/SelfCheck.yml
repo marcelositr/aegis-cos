@@ -1,0 +1,6 @@
+---
+layer: control
+name: SelfCheck
+tags: [verification, checklist, quality]
+links: [[control/Scope], [control/Uncertainty], [agent/Directives]]
+summary: Mental checklist to run before finalizing any task to prevent common mistakes

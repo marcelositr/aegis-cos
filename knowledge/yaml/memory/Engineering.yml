@@ -1,0 +1,6 @@
+---
+layer: memory
+name: Engineering
+tags: [memory, learning, principles]
+links: [[memory/Lessons], [failure/Common], [agent/Identity]]
+summary: Engineering memory principles: remember mistakes to avoid repetition, prefer proven patterns

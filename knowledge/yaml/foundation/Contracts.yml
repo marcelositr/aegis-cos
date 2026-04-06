@@ -1,0 +1,6 @@
+---
+layer: foundation
+name: Contracts
+tags: [oop, contracts, validation]
+links: [[foundation/ModeInterface], [foundation/AgentStates], [agent/Contract]]
+summary: Validation contracts for agent behavior ensuring interfaces are respected

@@ -1,0 +1,6 @@
+---
+layer: knowledge
+name: DependencyRules
+tags: [dependencies, rules, constraints]
+links: [[knowledge/Dependency], [knowledge/Environment]]
+summary: Specific rules for evaluating and managing dependencies in projects

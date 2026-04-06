@@ -1,0 +1,6 @@
+---
+layer: knowledge
+name: Portable
+tags: [portability, posix, shell]
+links: [[knowledge/ShellSafety], [knowledge/Portability]]
+summary: POSIX compliance rules for writing portable shell scripts that work across different environments

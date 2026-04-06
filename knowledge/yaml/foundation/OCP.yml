@@ -1,0 +1,7 @@
+---
+layer: foundation
+name: OCP
+tags: [solid, ocp, open-closed, extension]
+links: [[foundation/SRP], [foundation/LSP], [foundation/ModeInterface], [foundation/DesignLaws]]
+summary: "Software entities should be open for extension but closed for modification. Add new behavior by extending base behavior rather than changing existing code."
+---

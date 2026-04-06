@@ -1,0 +1,6 @@
+---
+layer: knowledge
+name: ShellSafety
+tags: [shell, safety, checklist]
+links: [[knowledge/Portable], [knowledge/FeatureDetection]]
+summary: Shell script safety rules: quote variables, use set -eu, validate inputs, handle errors

@@ -1,0 +1,6 @@
+---
+layer: execution
+name: Done
+tags: [completion, done, definition]
+links: [[execution/Protocol], [execution/Decision], [failure/Overengineering]]
+summary: Defines when a task is truly complete to prevent overworking and scope expansion

@@ -1,0 +1,6 @@
+---
+layer: foundation
+name: DesignLaws
+tags: [architecture, design, structure]
+links: [[foundation/Complexity], [foundation/SRP], [failure/Overengineering]]
+summary: Architectural principles and constraints for maintaining clean, justifiable structure

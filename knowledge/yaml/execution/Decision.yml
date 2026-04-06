@@ -1,0 +1,6 @@
+---
+layer: execution
+name: Decision
+tags: [decision, flow, selection]
+links: [[execution/Protocol], [execution/Done], [agent/Directives]]
+summary: Decision flow for selecting minimal solution with correct complexity for the problem

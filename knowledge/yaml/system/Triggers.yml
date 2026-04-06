@@ -1,0 +1,6 @@
+---
+layer: system
+name: Triggers
+tags: [triggers, behavior, activation]
+links: [[agent/Modes], [execution/Decision], [control/Scope]]
+summary: Task-to-mode routing: which thinking mode (PARANOID, STRICT, ANALYSIS, MINIMAL, CREATIVE) to activate based on task context

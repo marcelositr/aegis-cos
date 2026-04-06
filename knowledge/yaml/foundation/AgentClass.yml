@@ -1,0 +1,6 @@
+---
+layer: foundation
+name: AgentClass
+tags: [oop, class, structure]
+links: [[foundation/AgentStates], [foundation/Transitions], [foundation/ModeInterface]]
+summary: Agent class structure following OOP principles with state machine

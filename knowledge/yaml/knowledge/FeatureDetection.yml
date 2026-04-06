@@ -1,0 +1,6 @@
+---
+layer: knowledge
+name: FeatureDetection
+tags: [detection, feature, discovery]
+links: [[knowledge/Environment], [knowledge/ShellSafety]]
+summary: Feature detection patterns for discovering available tools and capabilities at runtime

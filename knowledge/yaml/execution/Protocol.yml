@@ -1,0 +1,12 @@
+---
+layer: execution
+name: Protocol
+tags:
+  - protocol
+  - workflow
+  - task-execution
+links:
+  - [[execution/Decision]]
+  - [[execution/Done]]
+  - [[control/Scope]]
+summary: Defines 6-step workflow for task execution: Understand, Plan, Execute, Verify, Validate, Complete

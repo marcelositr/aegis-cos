@@ -1,0 +1,7 @@
+---
+layer: foundation
+name: LSP
+tags: [solid, lsp, liskov-substitution, polymorphism]
+links: [[foundation/OCP], [foundation/ISP], [foundation/ModeInterface], [foundation/AgentStates]]
+summary: "Objects of a superclass should be replaceable with objects of a subclass without breaking the application. All agent modes must maintain the same core contract behaviors."
+---

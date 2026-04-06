@@ -1,0 +1,6 @@
+---
+layer: tests
+name: Validation
+tags: [validation, gates, checklist]
+links: [[tests/Automation], [tests/Hostile], [control/SelfCheck]]
+summary: 4 validation gates (Pre-Execution, Real-Time, Post-Execution, Quality) for verifying code before deployment

@@ -1,0 +1,7 @@
+---
+layer: foundation
+name: ISP
+tags: [solid, isp, interface-segregation, decoupling]
+links: [[foundation/LSP], [foundation/DIP], [foundation/Contracts], [foundation/ModeInterface]]
+summary: "Clients should not be forced to depend on interfaces they do not use. Use role-based interfaces like IValidation, IExecution, IMonitoring instead of fat interfaces."
+---

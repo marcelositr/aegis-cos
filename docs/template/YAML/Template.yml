@@ -1,0 +1,6 @@
+---
+layer: execution
+name: Template
+tags: [template, workflow]
+links: [[execution/Protocol], [execution/Done], [control/SelfCheck]]
+summary: Template YAML file for task execution workflow

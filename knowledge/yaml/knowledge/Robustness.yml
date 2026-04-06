@@ -1,0 +1,6 @@
+---
+layer: knowledge
+name: Robustness
+tags: [robustness, fail-fast, defensive]
+links: [[knowledge/ShellSafety], [knowledge/Portable]]
+summary: Fail-fast principles for defensive programming and robust code that fails predictably
