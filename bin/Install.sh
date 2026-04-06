@@ -64,7 +64,7 @@ if [ "$INSTALL_YAML" = "yes" ] && [ -d "$INSTALL_DIR/knowledge/yaml" ]; then
     
     # Copy YAML files maintaining directory structure
     find "$INSTALL_DIR/knowledge/yaml" -name "*.yml" -type f | while read -r yml_file; do
-        relative_path="${yml_file#$INSTALL_DIR/knowledge/yaml/}"
+        relative_path="${yml_file#"$INSTALL_DIR"/knowledge/yaml/}"
         target_file="$TARGET_DIR/knowledge/yaml/$relative_path"
         target_dir="$(dirname "$target_file")"
         

@@ -61,4 +61,3 @@ jobs:
           for f in bin/*.sh; do
             sh -n "$f" || exit 1
           done
- 
