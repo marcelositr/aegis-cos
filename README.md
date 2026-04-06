@@ -1,5 +1,7 @@
 # AEGIS Cognitive Engineering OS
 
+[![AEGIS Validation](https://github.com/marcelositr/aegis-cos/actions/workflows/aegis.yml/badge.svg)](https://github.com/marcelositr/aegis-cos/actions/workflows/aegis.yml)
+
 **Version:** 0.0.1 Alpha Test
 
 | Status | License | Files |
