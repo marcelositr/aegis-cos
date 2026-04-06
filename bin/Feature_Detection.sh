@@ -78,7 +78,7 @@ is_root() {
 # Detect if command exists, exit if not
 require_command() {
     cmd="$1"
-    msg="${2:-Command '$cmd' is required but not found.}"
+    msg="${2:-Command $cmd is required but not found.}"
     if ! command_exists "$cmd"; then
         echo "Error: $msg" >&2
         exit 1
