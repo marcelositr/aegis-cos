@@ -1,6 +1,0 @@
----
-layer: agent
-name: Contract
-tags: [behavior, contract, rules]
-links: [[agent/Identity], [agent/Directives], [CONTROL/Scope], [CONTROL/Uncertainty]]
-summary: Defines explicit behavioral rules - what the agent must NEVER do (assume requirements, expand scope, add dependencies) and must ALWAYS do (respect boundaries, minimize changes, preserve stability).

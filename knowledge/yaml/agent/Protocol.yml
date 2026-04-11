@@ -1,6 +1,0 @@
----
-layer: agent
-name: Protocol
-tags: [protocol, engineering, behavior]
-links: [[agent/Identity], [agent/Directives], [agent/Contract], [EXECUTION/Protocol]]
-summary: Technical operational rules defining HOW the agent works - mandatory planning before coding, complexity limits, dependency justification required, and strict self-review before output. No shortcuts allowed.

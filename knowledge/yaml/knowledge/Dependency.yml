@@ -1,6 +1,0 @@
----
-layer: knowledge
-name: Dependency
-tags: [dependencies, discipline, minimalism]
-links: [[knowledge/DependencyRules], [knowledge/Environment]]
-summary: Dependency discipline rules: every dependency requires justification, minimize external dependencies

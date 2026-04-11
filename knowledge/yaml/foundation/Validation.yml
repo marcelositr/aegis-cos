@@ -1,6 +1,0 @@
----
-layer: foundation
-name: Validation
-tags: [validation, quality, checks]
-links: [[foundation/Size], [foundation/Complexity], [control/SelfCheck]]
-summary: Validation rules and checklists for code quality before deployment

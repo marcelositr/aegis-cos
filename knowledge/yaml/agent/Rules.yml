@@ -1,6 +1,0 @@
----
-layer: agent
-name: Rules
-tags: [governance, rules, hierarchy]
-links: [[agent/Directives], [agent/Identity], [SYSTEM/Map], [REVIEW/SelfReview]]
-summary: Defines non-negotiable rules that override all others. Establishes layer hierarchy where AGENT overrides everything, and stability always wins.

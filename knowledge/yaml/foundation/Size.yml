@@ -1,7 +1,0 @@
----
-layer: foundation
-name: Size
-tags: [size, limits, metrics, thresholds]
-links: [[foundation/Naming], [foundation/Complexity], [failure/Overengineering], [foundation/DesignLaws]]
-summary: "Defines maximum sizes to prevent complexity accumulation including file limits (200 lines source, 500 lines markdown), function limits (20 lines), class limits (10 methods), and complexity metrics."
----

@@ -1,6 +1,0 @@
----
-layer: memory
-name: Lessons
-tags: [memory, lessons, failures]
-links: [[memory/Engineering], [failure/Common], [system/Feedback]]
-summary: Accumulated engineering lessons derived from failures to prevent repetition

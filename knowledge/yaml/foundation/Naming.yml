@@ -1,7 +1,0 @@
----
-layer: foundation
-name: Naming
-tags: [naming, conventions, clean-code, patterns]
-links: [[foundation/Size], [foundation/Complexity], [foundation/DesignLaws]]
-summary: "Defines naming conventions for consistent, readable code including case styles (camelCase, PascalCase, SCREAMING_SNAKE), type-based naming for variables/functions/classes, and anti-patterns to avoid."
----

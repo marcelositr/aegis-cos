@@ -1,6 +1,0 @@
----
-layer: foundation
-name: Concept
-tags: [template, example]
-links: [[foundation/SRP], [foundation/OCP]]
-summary: Template YAML file for concept documentation

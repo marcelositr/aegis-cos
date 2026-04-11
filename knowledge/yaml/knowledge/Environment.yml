@@ -1,6 +1,0 @@
----
-layer: knowledge
-name: Environment
-tags: [environment, assumptions, detection]
-links: [[knowledge/Portable], [knowledge/FeatureDetection]]
-summary: Environment detection rules to avoid assuming tool availability or OS features

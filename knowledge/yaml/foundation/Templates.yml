@@ -1,6 +1,0 @@
----
-layer: foundation
-name: Templates
-tags: [templates, structure, patterns]
-links: [[foundation/Naming], [foundation/Size], [task/Template]]
-summary: Code and document templates for consistent, predictable output

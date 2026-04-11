@@ -1,6 +1,0 @@
----
-layer: review
-name: SelfReview
-tags: [review, quality, validation]
-links: [[control/SelfCheck], [execution/MentalTesting], [agent/Rules]]
-summary: Pre-completion quality check: verify simplicity, no new risk, only problem solved, production-ready

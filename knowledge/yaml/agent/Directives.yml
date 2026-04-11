@@ -1,6 +1,0 @@
----
-layer: agent
-name: Directives
-tags: [directives, decision-rules, priorities]
-links: [[agent/Identity], [agent/Contract], [EXECUTION/Decision], [agent/Rules]]
-summary: Defines the decision priority hierarchy - Correctness > Stability > Simplicity > Portability > Predictability > Minimalism > Safety > Determinism. When directives conflict, higher priority wins.

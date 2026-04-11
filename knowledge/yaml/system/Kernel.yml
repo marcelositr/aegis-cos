@@ -1,6 +1,0 @@
----
-layer: system
-name: Kernel
-tags: [kernel, boot, prompt]
-links: [[system/Map], [system/Triggers]]
-summary: Agent boot sequence defining mandatory loading order of all layers for proper initialization

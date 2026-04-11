@@ -1,6 +1,0 @@
----
-layer: control
-name: Uncertainty
-tags: [uncertainty, decision, safety]
-links: [[control/SelfCheck], [control/Scope], [agent/Directives]]
-summary: Protocol for making safe decisions when requirements are unclear or information is missing

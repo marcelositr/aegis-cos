@@ -1,6 +1,0 @@
----
-layer: system
-name: Feedback
-tags: [feedback, failure, loop]
-links: [[failure/Common], [memory/Lessons], [control/Drift]]
-summary: Failure feedback loop: how agent learns from failures and prevents repetition through corrective measures

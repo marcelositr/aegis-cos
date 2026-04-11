@@ -1,6 +1,0 @@
----
-layer: failure
-name: Overengineering
-tags: [overengineering, patterns, complexity]
-links: [[failure/Common], [execution/Decision], [foundation/DesignLaws]]
-summary: Overengineering patterns to detect and prevent: unnecessary abstraction, future proofing, premature optimization

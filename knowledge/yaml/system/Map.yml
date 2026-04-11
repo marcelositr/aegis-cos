@@ -1,6 +1,0 @@
----
-layer: system
-name: Map
-tags: [navigation, map, structure]
-links: [[system/Kernel], [agent/Navigation]]
-summary: Main navigation file with layer structure, conflict resolution, and reading order for agent initialization

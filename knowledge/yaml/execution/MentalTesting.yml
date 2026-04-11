@@ -1,6 +1,0 @@
----
-layer: execution
-name: MentalTesting
-tags: [simulation, testing, mental-validation]
-links: [[execution/Protocol], [control/SelfCheck], [review/SelfReview]]
-summary: Pre-execution mental testing to validate solution before actual implementation

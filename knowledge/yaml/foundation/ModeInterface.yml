@@ -1,6 +1,0 @@
----
-layer: foundation
-name: ModeInterface
-tags: [oop, interface, modes]
-links: [[foundation/AgentClass], [foundation/AgentStates], [foundation/LSP]]
-summary: Mode interface definitions for different agent operational modes

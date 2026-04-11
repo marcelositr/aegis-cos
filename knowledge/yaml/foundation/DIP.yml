@@ -1,7 +1,0 @@
----
-layer: foundation
-name: DIP
-tags: [solid, dip, dependency-inversion, abstractions]
-links: [[foundation/ISP], [foundation/Contracts], [foundation/ModeInterface], [foundation/DesignLaws]]
-summary: "High-level modules should not depend on low-level modules. Both should depend on abstractions. Use constructor injection and abstract at layer boundaries."
----

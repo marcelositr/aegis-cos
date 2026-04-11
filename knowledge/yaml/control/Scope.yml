@@ -1,6 +1,0 @@
----
-layer: control
-name: Scope
-tags: [scope, discipline, boundaries]
-links: [[control/SelfCheck], [control/Uncertainty], [agent/Contract]]
-summary: Defines task scope discipline rules to prevent scope expansion during task execution

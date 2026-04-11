@@ -1,7 +1,0 @@
----
-layer: foundation
-name: SRP
-tags: [solid, srp, single-responsibility, cohesion]
-links: [[foundation/OCP], [foundation/AgentClass], [foundation/Size], [foundation/DesignLaws]]
-summary: "A class/module should have one, and only one, reason to change. Each component should have a single responsibility like Identity, Control, Execution, Memory, or Guard."
----

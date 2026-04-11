@@ -1,6 +1,0 @@
----
-layer: tests
-name: Automation
-tags: [automation, ci-cd, pipeline]
-links: [[tests/Validation], [tests/Hostile]]
-summary: CI/CD automation guidelines for automated testing and validation pipelines

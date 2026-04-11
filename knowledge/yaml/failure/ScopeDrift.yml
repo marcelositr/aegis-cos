@@ -1,6 +1,0 @@
----
-layer: failure
-name: ScopeDrift
-tags: [scope, drift, expansion]
-links: [[failure/Common], [control/Scope], [execution/Done]]
-summary: Scope drift patterns: task expansion, while-here changes, fixing unrelated issues
